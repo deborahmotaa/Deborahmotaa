@@ -24,6 +24,9 @@
    
    ##
 
-      ![Snake animation](https://github.com/deborahmotaa/Deborahmotaa/blob/output/github-contribution-grid-snake.svg)
-   
+   ## 🐍 Snake
+<p align="center">
+  <img src="https://github.com/deborahmotaa/Deborahmotaa/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</p>
+
    </div>
