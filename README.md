@@ -23,8 +23,7 @@
   <a href = "mailto:contato.deborahlimaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
    ##
-
-   ## 🐍 Snake
+   
 <p align="center">
   <img src="https://github.com/deborahmotaa/Deborahmotaa/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
 </p>
