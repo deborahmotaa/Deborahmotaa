@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/deborah-lima-5230a2206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contato.deborahlimaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-     ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+     ![Snake animation](https://github.com/deborahmotaa/Deborahmotaa)/blob/output/github-contribution-grid-snake.svg)
    
-</div>
+   </div>
  
