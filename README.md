@@ -24,7 +24,7 @@
    ##
    
 <p align="center">
-  <img src="https://github.com/deborahmotaa/Deborahmotaa/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+  <img src="https://raw.githubusercontent.com/deborahmotaa/deborahmotaa/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 </div>
