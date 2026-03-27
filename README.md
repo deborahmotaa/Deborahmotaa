@@ -1,13 +1,12 @@
 ### Olá! eu sou a Deborah 👋 
 
-<div>
-   <a href="(https://github.com/Deborahmotaa)">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deborahmotaa&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborahmotaa&layout=compact&langs_count=7&theme=cobalt"/>
+<div align="center">
+  <a href="https://github.com/deborahmotaa">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=deborahmotaa&show_icons=true&include_all_commits=true&count_private=true&bg_color=fcf9f2&title_color=7f5539&text_color=9c6644&icon_color=b08968&border_color=e6ccb2" alt="Estatísticas do GitHub" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborahmotaa&layout=compact&langs_count=7&bg_color=fcf9f2&title_color=7f5539&text_color=9c6644&icon_color=b08968&border_color=e6ccb2" alt="Linguagens mais usadas" />
+  </a>
 </div>
-</div>
-    
- <br>
+<br>
   
  ## 👩🏻‍🎓 Linguagens
   <div  align="center"> 
